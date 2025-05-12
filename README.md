@@ -1,4 +1,4 @@
-# Banglore_Home_Prices_Prediction
+# Banglore Home Prices Prediction
 
 ![Project Screenshot](BHP_Website_Look.png)
 
